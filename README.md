@@ -4,6 +4,8 @@
 
 A Collaborative Chat Application
 
+![output](https://github.com/Alfex4936/chatgpt-together/assets/2356749/d2e42b51-031b-49b2-b857-2154384e1e39)
+
 ![gui](https://github.com/Alfex4936/Bard-rs/assets/2356749/964a0efb-af86-4b8b-a52a-d62ecec4fbfa)
 
 ChatGPT Together is a project that allows you to run a collaborative chat application with OpenAI's GPT-3.5-turbo or GPT-4. 
